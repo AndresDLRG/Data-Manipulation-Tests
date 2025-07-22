@@ -37,6 +37,8 @@ dist/
 .pytest_cache/
 .cache/
 *.sqlite3
+.python-version
+python/artifacts/
 
 # Vscode
 .vscode/
