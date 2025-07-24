@@ -42,3 +42,4 @@ python/artifacts/
 
 # Vscode
 .vscode/
+files/*
